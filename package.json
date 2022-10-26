@@ -1,0 +1,29 @@
+{
+  "name": "yeqingkong.com",
+  "version": "1.0.0",
+  "private": true,
+  "description": "yeqingkong.com",
+  "author": "Yulong Liang",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@mui/material": "^5.10.11",
+    "gatsby": "^4.24.5",
+    "gatsby-plugin-image": "^2.24.0",
+    "gatsby-plugin-sharp": "^4.24.0",
+    "gatsby-source-contentful": "^7.22.0",
+    "gatsby-transformer-sharp": "^4.24.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
